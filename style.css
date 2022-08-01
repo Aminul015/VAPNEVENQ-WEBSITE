@@ -1,0 +1,176 @@
+.nav{
+    background-color: white;
+    padding: 10px;
+    text-align: right;
+ 
+}
+
+ .bb
+ {
+    height: 0px;
+    
+  
+ }
+
+.ab
+{ 
+    margin-right: 20px;
+    text-decoration: none;
+}
+.cd
+{
+    
+    margin-right: 20px;
+    text-decoration: none;
+
+}
+.ef
+{
+    
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.abc
+{
+    background-image: url("https://image.stern.de/9323576/t/9c/v3/w1440/r1.7778/-/windows-10-aufmacher.jpg");
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+
+ 
+    
+}
+ 
+.g
+{
+    color:yellow;
+    text-align: center;
+    line-height: 60px;
+   
+} 
+.h
+{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    font-family: georgia;
+}
+.btn a{
+    background-color:yellow;
+    color:black;
+    padding: 10px;
+    
+} 
+.btn a:hover{
+    color: black;
+    background-color: yellow;
+    padding: 20px;
+    transition: 0.2s;
+}
+
+.cc
+{
+    color: blueviolet;
+    text-align: center;
+}
+.cc:hover
+{
+     box-shadow: 2px 2px 6px black;
+    border-color: white;
+}
+ 
+.p
+{
+    color: blueviolet;
+    text-align:center;
+    font-size: 20px;
+    font-family: georgia;
+}
+.ccc{
+    text-align: center;
+    margin: 30px;
+    padding: 18px 32px;
+}
+.ccc:hover
+{
+    box-shadow: 2px 2px 6px black;
+    border-color: white;
+  
+    
+}
+ 
+ 
+.def
+{
+    background-image: url("https://motionarray.imgix.net/preview-4554NRvj8Cu6aM_0013.jpg?w=660&q=60&fit=max&auto=format");
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    
+}
+.t
+{
+    color:white;
+    text-align: left;
+    font-size: 40px;
+    font-family: georgia;
+    margin-left: 200px;
+    padding: 120px 0px;
+
+ 
+}
+.cccc
+{
+  margin-bottom: 200px;
+    margin-right: 200px;
+  
+ 
+}
+.def:hover
+{
+    box-shadow: 6px 6px 6px black;
+    border-color: blue;
+  
+    
+}
+   
+ 
+.v
+{
+    color: blueviolet;
+    text-align:left;
+    font-size: 15px;
+    font-family: georgia;
+    margin: 30px;
+    padding: 18px 80px;
+}
+.v:hover
+{
+     box-shadow: 2px 2px 6px black;
+    border-color: white;
+}
+  
+.content
+{
+    padding: 15px 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blueviolet;
+}
+.content .left-content img{
+    width: 495px;
+    
+}
+.content .right-content{
+    margin-left: 25px;
+}
+.right-content p{
+    margin: 25px 0;
+    line-height: 35px;
+}
